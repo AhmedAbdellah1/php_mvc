@@ -1,0 +1,11 @@
+{
+    "name": "ahmed/mvc-workshop",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+      "ext-pdo": "*"
+    }
+}
